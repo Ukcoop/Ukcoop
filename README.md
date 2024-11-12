@@ -1,10 +1,10 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Alexander Cooper
 ========================================================================================================================================
 
-Full stack blockchain developer (react) | solidity developer
+Full stack (react / blockchain) developer | solidity developer
 ------------------------------------------------------------
 
-* 🖥️  See my portfolio at [ukcoop.gitgub.io](http://ukcoop.github.io)
+* 🖥️  See my portfolio at [ukcoop.github.io](http://ukcoop.github.io)
 * ✉️  You can contact me at [coop.main@protonmail.com](mailto:coop.main@protonmail.com)
 
 ### Skills
