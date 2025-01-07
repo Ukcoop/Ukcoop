@@ -3,7 +3,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Full stack react developer | rust backend engineer
 --------------------------------------------------
 * 🌍  I'm based in alamosa, CO
-* 🖥️  See my portfolio at [ukcoop.github.com](http://ukoop.github.com)
+* 🖥️  See my portfolio at [ukcoop.github.io](http://ukcoop.github.io)
 * ✉️  You can contact me at [coop.main@protonmail.com](mailto:coop.main@protonmail.com)
 
 ### Skills
