@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Rust backend Engineer
 ---------------------
 
-[ukcoop.github.io](https://alexandercoop.com) | [coop.main@protonmail.com](mailto:coop.main@protonmail.com)
+[alexandercoop.com](https://alexandercoop.com) | [coop.main@protonmail.com](mailto:coop.main@protonmail.com)
 
 ### Skills
 
