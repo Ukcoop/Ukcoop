@@ -15,7 +15,7 @@ Rust backend Engineer
 ### Socials
 
 <p align="left">
-	<a href="https://bsky.app/profile/ukcoop.bsky.social" target="_blank" rel="noreferrer"> 
+	<a href="https://bsky.app/profile/alexandercoop.com" target="_blank" rel="noreferrer"> 
 		<picture>
 			<img src="https://img.shields.io/badge/Bluesky-0285FF?logo=bluesky&logoColor=fff&style=for-the-badge" />
 		</picture>
